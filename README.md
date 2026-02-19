@@ -6,8 +6,11 @@
 [![twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MancilhaSilvio)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviomancilha&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviomancilha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviomancilha&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=silviomancilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <br>
@@ -40,8 +43,8 @@
 <br>
 
 ### **💻 OS**
-<div style = "display : inline_block">
-    <img align = "center" alt = "Fedora 41" src ="https://img.shields.io/badge/Debian12-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<div style = "display : inline_block" >
+    <img height = "100" align = "center" alt = "Linux Mint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original-wordmark.svg" />
 </div>
 
 <br>
@@ -50,7 +53,6 @@
     <img align = "center" alt = "Excel" src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align = "center" alt = "Google Sheets" src ="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
     <img align = "center" alt = "Libre Office" src ="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-    <img align = "center" alt = "Excel" src ="" />
 </div>
 
 ### **IDE's**
